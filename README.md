@@ -1,2 +1,2 @@
 # uni-prog
-Programacion univercidad 
+Programacion universidad 
